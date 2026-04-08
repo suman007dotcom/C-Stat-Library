@@ -74,10 +74,8 @@ Open terminal
 Navigate to folder
 
 Compile using:
-gcc test.c stat.c -o output
-Run:
-./output
-
+gcc sensor.c stat.c -o run
+.\run
 ## Conclusion
 Built 33 statistical functions across 5 units
 Fully written in pure C with zero dependencies
